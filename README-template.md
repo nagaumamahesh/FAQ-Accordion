@@ -18,7 +18,6 @@ Users should be able to:
 - Solution URL: https://github.com/nagaumamahesh/FAQ-Accordion 
 - Live Site URL: https://nagaumamahesh.github.io/FAQ-Accordion/
 
-## My process
 
 ### Built with
 
